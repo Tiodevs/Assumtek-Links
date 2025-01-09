@@ -137,3 +137,10 @@ header, main{
     background-color: #0b52d4;
     animation: 4s;
 }
+
+@media (max-width: 665px){
+    header, main{
+        width: 100%;
+        padding: 0px 25px;
+    }
+}
